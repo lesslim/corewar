@@ -25,7 +25,3 @@ there is another options, check this:
 ```
 ./bin/corewar -help
 ```
-and this
-```
-./bin/asm -help
-```
