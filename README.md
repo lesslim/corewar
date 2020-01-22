@@ -3,7 +3,7 @@ project from 21
 
 Subject = corewar.eng.pdf
 
-#how to compile:
+# how to compile:
 ```
 git clone https://github.com/lesslim/corewar.git
 cd corewar
